@@ -1,0 +1,2892 @@
+[
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Afghanistan"
+   },
+   "Lat": 33.93911,
+   "Long": 67.709953
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Albania"
+   },
+   "Lat": 41.1533,
+   "Long": 20.1683
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Algeria"
+   },
+   "Lat": 28.0339,
+   "Long": 1.6596
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Andorra"
+   },
+   "Lat": 42.5063,
+   "Long": 1.5218
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Angola"
+   },
+   "Lat": -11.2027,
+   "Long": 17.8739
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Antarctica"
+   },
+   "Lat": -71.9499,
+   "Long": 23.347
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Antigua and Barbuda"
+   },
+   "Lat": 17.0608,
+   "Long": -61.7964
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Argentina"
+   },
+   "Lat": -38.4161,
+   "Long": -63.6167
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Armenia"
+   },
+   "Lat": 40.0691,
+   "Long": 45.0382
+},
+ {
+   "Province": {
+      "State": "Australian Capital Territory"
+   },
+   "Country": {
+      "Region": "Australia"
+   },
+   "Lat": -35.4735,
+   "Long": 149.0124
+},
+ {
+   "Province": {
+      "State": "New South Wales"
+   },
+   "Country": {
+      "Region": "Australia"
+   },
+   "Lat": -33.8688,
+   "Long": 151.2093
+},
+ {
+   "Province": {
+      "State": "Northern Territory"
+   },
+   "Country": {
+      "Region": "Australia"
+   },
+   "Lat": -12.4634,
+   "Long": 130.8456
+},
+ {
+   "Province": {
+      "State": "Queensland"
+   },
+   "Country": {
+      "Region": "Australia"
+   },
+   "Lat": -27.4698,
+   "Long": 153.0251
+},
+ {
+   "Province": {
+      "State": "South Australia"
+   },
+   "Country": {
+      "Region": "Australia"
+   },
+   "Lat": -34.9285,
+   "Long": 138.6007
+},
+ {
+   "Province": {
+      "State": "Tasmania"
+   },
+   "Country": {
+      "Region": "Australia"
+   },
+   "Lat": -42.8821,
+   "Long": 147.3272
+},
+ {
+   "Province": {
+      "State": "Victoria"
+   },
+   "Country": {
+      "Region": "Australia"
+   },
+   "Lat": -37.8136,
+   "Long": 144.9631
+},
+ {
+   "Province": {
+      "State": "Western Australia"
+   },
+   "Country": {
+      "Region": "Australia"
+   },
+   "Lat": -31.9505,
+   "Long": 115.8605
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Austria"
+   },
+   "Lat": 47.5162,
+   "Long": 14.5501
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Azerbaijan"
+   },
+   "Lat": 40.1431,
+   "Long": 47.5769
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Bahamas"
+   },
+   "Lat": 25.025885,
+   "Long": -78.035889
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Bahrain"
+   },
+   "Lat": 26.0275,
+   "Long": 50.55
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Bangladesh"
+   },
+   "Lat": 23.685,
+   "Long": 90.3563
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Barbados"
+   },
+   "Lat": 13.1939,
+   "Long": -59.5432
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Belarus"
+   },
+   "Lat": 53.7098,
+   "Long": 27.9534
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Belgium"
+   },
+   "Lat": 50.8333,
+   "Long": 4.469936
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Belize"
+   },
+   "Lat": 17.1899,
+   "Long": -88.4976
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Benin"
+   },
+   "Lat": 9.3077,
+   "Long": 2.3158
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Bhutan"
+   },
+   "Lat": 27.5142,
+   "Long": 90.4336
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Bolivia"
+   },
+   "Lat": -16.2902,
+   "Long": -63.5887
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Bosnia and Herzegovina"
+   },
+   "Lat": 43.9159,
+   "Long": 17.6791
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Botswana"
+   },
+   "Lat": -22.3285,
+   "Long": 24.6849
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Brazil"
+   },
+   "Lat": -14.235,
+   "Long": -51.9253
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Brunei"
+   },
+   "Lat": 4.5353,
+   "Long": 114.7277
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Bulgaria"
+   },
+   "Lat": 42.7339,
+   "Long": 25.4858
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Burkina Faso"
+   },
+   "Lat": 12.2383,
+   "Long": -1.5616
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Burma"
+   },
+   "Lat": 21.9162,
+   "Long": 95.956
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Burundi"
+   },
+   "Lat": -3.3731,
+   "Long": 29.9189
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Cabo Verde"
+   },
+   "Lat": 16.5388,
+   "Long": -23.0418
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Cambodia"
+   },
+   "Lat": 11.55,
+   "Long": 104.9167
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Cameroon"
+   },
+   "Lat": 3.848,
+   "Long": 11.5021
+},
+ {
+   "Province": {
+      "State": "Alberta"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 53.9333,
+   "Long": -116.5765
+},
+ {
+   "Province": {
+      "State": "British Columbia"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 53.7267,
+   "Long": -127.6476
+},
+ {
+   "Province": {
+      "State": "Diamond Princess"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 0,
+   "Long": 0
+},
+ {
+   "Province": {
+      "State": "Grand Princess"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 0,
+   "Long": 0
+},
+ {
+   "Province": {
+      "State": "Manitoba"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 53.7609,
+   "Long": -98.8139
+},
+ {
+   "Province": {
+      "State": "New Brunswick"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 46.5653,
+   "Long": -66.4619
+},
+ {
+   "Province": {
+      "State": "Newfoundland and Labrador"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 53.1355,
+   "Long": -57.6604
+},
+ {
+   "Province": {
+      "State": "Northwest Territories"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 64.8255,
+   "Long": -124.8457
+},
+ {
+   "Province": {
+      "State": "Nova Scotia"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 44.682,
+   "Long": -63.7443
+},
+ {
+   "Province": {
+      "State": "Nunavut"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 70.2998,
+   "Long": -83.1076
+},
+ {
+   "Province": {
+      "State": "Ontario"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 51.2538,
+   "Long": -85.3232
+},
+ {
+   "Province": {
+      "State": "Prince Edward Island"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 46.5107,
+   "Long": -63.4168
+},
+ {
+   "Province": {
+      "State": "Quebec"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 52.9399,
+   "Long": -73.5491
+},
+ {
+   "Province": {
+      "State": "Repatriated Travellers"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": null,
+   "Long": null
+},
+ {
+   "Province": {
+      "State": "Saskatchewan"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 52.9399,
+   "Long": -106.4509
+},
+ {
+   "Province": {
+      "State": "Yukon"
+   },
+   "Country": {
+      "Region": "Canada"
+   },
+   "Lat": 64.2823,
+   "Long": -135
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Central African Republic"
+   },
+   "Lat": 6.6111,
+   "Long": 20.9394
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Chad"
+   },
+   "Lat": 15.4542,
+   "Long": 18.7322
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Chile"
+   },
+   "Lat": -35.6751,
+   "Long": -71.543
+},
+ {
+   "Province": {
+      "State": "Anhui"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 31.8257,
+   "Long": 117.2264
+},
+ {
+   "Province": {
+      "State": "Beijing"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 40.1824,
+   "Long": 116.4142
+},
+ {
+   "Province": {
+      "State": "Chongqing"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 30.0572,
+   "Long": 107.874
+},
+ {
+   "Province": {
+      "State": "Fujian"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 26.0789,
+   "Long": 117.9874
+},
+ {
+   "Province": {
+      "State": "Gansu"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 35.7518,
+   "Long": 104.2861
+},
+ {
+   "Province": {
+      "State": "Guangdong"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 23.3417,
+   "Long": 113.4244
+},
+ {
+   "Province": {
+      "State": "Guangxi"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 23.8298,
+   "Long": 108.7881
+},
+ {
+   "Province": {
+      "State": "Guizhou"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 26.8154,
+   "Long": 106.8748
+},
+ {
+   "Province": {
+      "State": "Hainan"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 19.1959,
+   "Long": 109.7453
+},
+ {
+   "Province": {
+      "State": "Hebei"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 39.549,
+   "Long": 116.1306
+},
+ {
+   "Province": {
+      "State": "Heilongjiang"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 47.862,
+   "Long": 127.7615
+},
+ {
+   "Province": {
+      "State": "Henan"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 37.8957,
+   "Long": 114.9042
+},
+ {
+   "Province": {
+      "State": "Hong Kong"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 22.3,
+   "Long": 114.2
+},
+ {
+   "Province": {
+      "State": "Hubei"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 30.9756,
+   "Long": 112.2707
+},
+ {
+   "Province": {
+      "State": "Hunan"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 27.6104,
+   "Long": 111.7088
+},
+ {
+   "Province": {
+      "State": "Inner Mongolia"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 44.0935,
+   "Long": 113.9448
+},
+ {
+   "Province": {
+      "State": "Jiangsu"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 32.9711,
+   "Long": 119.455
+},
+ {
+   "Province": {
+      "State": "Jiangxi"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 27.614,
+   "Long": 115.7221
+},
+ {
+   "Province": {
+      "State": "Jilin"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 43.6661,
+   "Long": 126.1923
+},
+ {
+   "Province": {
+      "State": "Liaoning"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 41.2956,
+   "Long": 122.6085
+},
+ {
+   "Province": {
+      "State": "Macau"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 22.1667,
+   "Long": 113.55
+},
+ {
+   "Province": {
+      "State": "Ningxia"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 37.2692,
+   "Long": 106.1655
+},
+ {
+   "Province": {
+      "State": "Qinghai"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 35.7452,
+   "Long": 95.9956
+},
+ {
+   "Province": {
+      "State": "Shaanxi"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 35.1917,
+   "Long": 108.8701
+},
+ {
+   "Province": {
+      "State": "Shandong"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 36.3427,
+   "Long": 118.1498
+},
+ {
+   "Province": {
+      "State": "Shanghai"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 31.202,
+   "Long": 121.4491
+},
+ {
+   "Province": {
+      "State": "Shanxi"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 37.5777,
+   "Long": 112.2922
+},
+ {
+   "Province": {
+      "State": "Sichuan"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 30.6171,
+   "Long": 102.7103
+},
+ {
+   "Province": {
+      "State": "Tianjin"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 39.3054,
+   "Long": 117.323
+},
+ {
+   "Province": {
+      "State": "Tibet"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 31.6927,
+   "Long": 88.0924
+},
+ {
+   "Province": {
+      "State": "Unknown"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": null,
+   "Long": null
+},
+ {
+   "Province": {
+      "State": "Xinjiang"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 41.1129,
+   "Long": 85.2401
+},
+ {
+   "Province": {
+      "State": "Yunnan"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 24.974,
+   "Long": 101.487
+},
+ {
+   "Province": {
+      "State": "Zhejiang"
+   },
+   "Country": {
+      "Region": "China"
+   },
+   "Lat": 29.1832,
+   "Long": 120.0934
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Colombia"
+   },
+   "Lat": 4.5709,
+   "Long": -74.2973
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Comoros"
+   },
+   "Lat": -11.6455,
+   "Long": 43.3333
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Congo (Brazzaville)"
+   },
+   "Lat": -0.228,
+   "Long": 15.8277
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Congo (Kinshasa)"
+   },
+   "Lat": -4.0383,
+   "Long": 21.7587
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Costa Rica"
+   },
+   "Lat": 9.7489,
+   "Long": -83.7534
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Cote d'Ivoire"
+   },
+   "Lat": 7.54,
+   "Long": -5.5471
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Croatia"
+   },
+   "Lat": 45.1,
+   "Long": 15.2
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Cuba"
+   },
+   "Lat": 21.521757,
+   "Long": -77.781167
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Cyprus"
+   },
+   "Lat": 35.1264,
+   "Long": 33.4299
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Czechia"
+   },
+   "Lat": 49.8175,
+   "Long": 15.473
+},
+ {
+   "Province": {
+      "State": "Faroe Islands"
+   },
+   "Country": {
+      "Region": "Denmark"
+   },
+   "Lat": 61.8926,
+   "Long": -6.9118
+},
+ {
+   "Province": {
+      "State": "Greenland"
+   },
+   "Country": {
+      "Region": "Denmark"
+   },
+   "Lat": 71.7069,
+   "Long": -42.6043
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Denmark"
+   },
+   "Lat": 56.2639,
+   "Long": 9.5018
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Diamond Princess"
+   },
+   "Lat": 0,
+   "Long": 0
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Djibouti"
+   },
+   "Lat": 11.8251,
+   "Long": 42.5903
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Dominica"
+   },
+   "Lat": 15.415,
+   "Long": -61.371
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Dominican Republic"
+   },
+   "Lat": 18.7357,
+   "Long": -70.1627
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Ecuador"
+   },
+   "Lat": -1.8312,
+   "Long": -78.1834
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Egypt"
+   },
+   "Lat": 26.820553,
+   "Long": 30.802498
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "El Salvador"
+   },
+   "Lat": 13.7942,
+   "Long": -88.8965
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Equatorial Guinea"
+   },
+   "Lat": 1.6508,
+   "Long": 10.2679
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Eritrea"
+   },
+   "Lat": 15.1794,
+   "Long": 39.7823
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Estonia"
+   },
+   "Lat": 58.5953,
+   "Long": 25.0136
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Eswatini"
+   },
+   "Lat": -26.5225,
+   "Long": 31.4659
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Ethiopia"
+   },
+   "Lat": 9.145,
+   "Long": 40.4897
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Fiji"
+   },
+   "Lat": -17.7134,
+   "Long": 178.065
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Finland"
+   },
+   "Lat": 61.92411,
+   "Long": 25.748151
+},
+ {
+   "Province": {
+      "State": "French Guiana"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": 3.9339,
+   "Long": -53.1258
+},
+ {
+   "Province": {
+      "State": "French Polynesia"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": -17.6797,
+   "Long": 149.4068
+},
+ {
+   "Province": {
+      "State": "Guadeloupe"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": 16.265,
+   "Long": -61.551
+},
+ {
+   "Province": {
+      "State": "Martinique"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": 14.6415,
+   "Long": -61.0242
+},
+ {
+   "Province": {
+      "State": "Mayotte"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": -12.8275,
+   "Long": 45.166244
+},
+ {
+   "Province": {
+      "State": "New Caledonia"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": -20.904305,
+   "Long": 165.618042
+},
+ {
+   "Province": {
+      "State": "Reunion"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": -21.1151,
+   "Long": 55.5364
+},
+ {
+   "Province": {
+      "State": "Saint Barthelemy"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": 17.9,
+   "Long": -62.8333
+},
+ {
+   "Province": {
+      "State": "Saint Pierre and Miquelon"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": 46.8852,
+   "Long": -56.3159
+},
+ {
+   "Province": {
+      "State": "St Martin"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": 18.0708,
+   "Long": -63.0501
+},
+ {
+   "Province": {
+      "State": "Wallis and Futuna"
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": -14.2938,
+   "Long": -178.1165
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "France"
+   },
+   "Lat": 46.2276,
+   "Long": 2.2137
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Gabon"
+   },
+   "Lat": -0.8037,
+   "Long": 11.6094
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Gambia"
+   },
+   "Lat": 13.4432,
+   "Long": -15.3101
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Georgia"
+   },
+   "Lat": 42.3154,
+   "Long": 43.3569
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Germany"
+   },
+   "Lat": 51.165691,
+   "Long": 10.451526
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Ghana"
+   },
+   "Lat": 7.9465,
+   "Long": -1.0232
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Greece"
+   },
+   "Lat": 39.0742,
+   "Long": 21.8243
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Grenada"
+   },
+   "Lat": 12.1165,
+   "Long": -61.679
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Guatemala"
+   },
+   "Lat": 15.7835,
+   "Long": -90.2308
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Guinea"
+   },
+   "Lat": 9.9456,
+   "Long": -9.6966
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Guinea-Bissau"
+   },
+   "Lat": 11.8037,
+   "Long": -15.1804
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Guyana"
+   },
+   "Lat": 4.860416,
+   "Long": -58.93018
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Haiti"
+   },
+   "Lat": 18.9712,
+   "Long": -72.2852
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Holy See"
+   },
+   "Lat": 41.9029,
+   "Long": 12.4534
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Honduras"
+   },
+   "Lat": 15.2,
+   "Long": -86.2419
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Hungary"
+   },
+   "Lat": 47.1625,
+   "Long": 19.5033
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Iceland"
+   },
+   "Lat": 64.9631,
+   "Long": -19.0208
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "India"
+   },
+   "Lat": 20.593684,
+   "Long": 78.96288
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Indonesia"
+   },
+   "Lat": -0.7893,
+   "Long": 113.9213
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Iran"
+   },
+   "Lat": 32.427908,
+   "Long": 53.688046
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Iraq"
+   },
+   "Lat": 33.223191,
+   "Long": 43.679291
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Ireland"
+   },
+   "Lat": 53.1424,
+   "Long": -7.6921
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Israel"
+   },
+   "Lat": 31.046051,
+   "Long": 34.851612
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Italy"
+   },
+   "Lat": 41.87194,
+   "Long": 12.56738
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Jamaica"
+   },
+   "Lat": 18.1096,
+   "Long": -77.2975
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Japan"
+   },
+   "Lat": 36.204824,
+   "Long": 138.252924
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Jordan"
+   },
+   "Lat": 31.24,
+   "Long": 36.51
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Kazakhstan"
+   },
+   "Lat": 48.0196,
+   "Long": 66.9237
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Kenya"
+   },
+   "Lat": -0.0236,
+   "Long": 37.9062
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Kiribati"
+   },
+   "Lat": -3.3704,
+   "Long": -168.734
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Korea, North"
+   },
+   "Lat": 40.3399,
+   "Long": 127.5101
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Korea, South"
+   },
+   "Lat": 35.907757,
+   "Long": 127.766922
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Kosovo"
+   },
+   "Lat": 42.602636,
+   "Long": 20.902977
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Kuwait"
+   },
+   "Lat": 29.31166,
+   "Long": 47.481766
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Kyrgyzstan"
+   },
+   "Lat": 41.20438,
+   "Long": 74.766098
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Laos"
+   },
+   "Lat": 19.85627,
+   "Long": 102.495496
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Latvia"
+   },
+   "Lat": 56.8796,
+   "Long": 24.6032
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Lebanon"
+   },
+   "Lat": 33.8547,
+   "Long": 35.8623
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Lesotho"
+   },
+   "Lat": -29.61,
+   "Long": 28.2336
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Liberia"
+   },
+   "Lat": 6.428055,
+   "Long": -9.429499
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Libya"
+   },
+   "Lat": 26.3351,
+   "Long": 17.228331
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Liechtenstein"
+   },
+   "Lat": 47.14,
+   "Long": 9.55
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Lithuania"
+   },
+   "Lat": 55.1694,
+   "Long": 23.8813
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Luxembourg"
+   },
+   "Lat": 49.8153,
+   "Long": 6.1296
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "MS Zaandam"
+   },
+   "Lat": 0,
+   "Long": 0
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Madagascar"
+   },
+   "Lat": -18.766947,
+   "Long": 46.869107
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Malawi"
+   },
+   "Lat": -13.2543,
+   "Long": 34.3015
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Malaysia"
+   },
+   "Lat": 4.210484,
+   "Long": 101.975766
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Maldives"
+   },
+   "Lat": 3.2028,
+   "Long": 73.2207
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Mali"
+   },
+   "Lat": 17.570692,
+   "Long": -3.996166
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Malta"
+   },
+   "Lat": 35.9375,
+   "Long": 14.3754
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Marshall Islands"
+   },
+   "Lat": 7.1315,
+   "Long": 171.1845
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Mauritania"
+   },
+   "Lat": 21.0079,
+   "Long": -10.9408
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Mauritius"
+   },
+   "Lat": -20.348404,
+   "Long": 57.552152
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Mexico"
+   },
+   "Lat": 23.6345,
+   "Long": -102.5528
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Micronesia"
+   },
+   "Lat": 7.4256,
+   "Long": 150.5508
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Moldova"
+   },
+   "Lat": 47.4116,
+   "Long": 28.3699
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Monaco"
+   },
+   "Lat": 43.7333,
+   "Long": 7.4167
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Mongolia"
+   },
+   "Lat": 46.8625,
+   "Long": 103.8467
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Montenegro"
+   },
+   "Lat": 42.708678,
+   "Long": 19.37439
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Morocco"
+   },
+   "Lat": 31.7917,
+   "Long": -7.0926
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Mozambique"
+   },
+   "Lat": -18.665695,
+   "Long": 35.529562
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Namibia"
+   },
+   "Lat": -22.9576,
+   "Long": 18.4904
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Nauru"
+   },
+   "Lat": -0.5228,
+   "Long": 166.9315
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Nepal"
+   },
+   "Lat": 28.1667,
+   "Long": 84.25
+},
+ {
+   "Province": {
+      "State": "Aruba"
+   },
+   "Country": {
+      "Region": "Netherlands"
+   },
+   "Lat": 12.5211,
+   "Long": -69.9683
+},
+ {
+   "Province": {
+      "State": "Bonaire, Sint Eustatius and Saba"
+   },
+   "Country": {
+      "Region": "Netherlands"
+   },
+   "Lat": 12.1784,
+   "Long": -68.2385
+},
+ {
+   "Province": {
+      "State": "Curacao"
+   },
+   "Country": {
+      "Region": "Netherlands"
+   },
+   "Lat": 12.1696,
+   "Long": -68.99
+},
+ {
+   "Province": {
+      "State": "Sint Maarten"
+   },
+   "Country": {
+      "Region": "Netherlands"
+   },
+   "Lat": 18.0425,
+   "Long": -63.0548
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Netherlands"
+   },
+   "Lat": 52.1326,
+   "Long": 5.2913
+},
+ {
+   "Province": {
+      "State": "Cook Islands"
+   },
+   "Country": {
+      "Region": "New Zealand"
+   },
+   "Lat": -21.2367,
+   "Long": -159.7777
+},
+ {
+   "Province": {
+      "State": "Niue"
+   },
+   "Country": {
+      "Region": "New Zealand"
+   },
+   "Lat": -19.0544,
+   "Long": -169.8672
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "New Zealand"
+   },
+   "Lat": -40.9006,
+   "Long": 174.886
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Nicaragua"
+   },
+   "Lat": 12.865416,
+   "Long": -85.207229
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Niger"
+   },
+   "Lat": 17.607789,
+   "Long": 8.081666
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Nigeria"
+   },
+   "Lat": 9.082,
+   "Long": 8.6753
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "North Macedonia"
+   },
+   "Lat": 41.6086,
+   "Long": 21.7453
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Norway"
+   },
+   "Lat": 60.472,
+   "Long": 8.4689
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Oman"
+   },
+   "Lat": 21.512583,
+   "Long": 55.923255
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Pakistan"
+   },
+   "Lat": 30.3753,
+   "Long": 69.3451
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Palau"
+   },
+   "Lat": 7.515,
+   "Long": 134.5825
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Panama"
+   },
+   "Lat": 8.538,
+   "Long": -80.7821
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Papua New Guinea"
+   },
+   "Lat": -6.314993,
+   "Long": 143.95555
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Paraguay"
+   },
+   "Lat": -23.4425,
+   "Long": -58.4438
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Peru"
+   },
+   "Lat": -9.19,
+   "Long": -75.0152
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Philippines"
+   },
+   "Lat": 12.879721,
+   "Long": 121.774017
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Poland"
+   },
+   "Lat": 51.9194,
+   "Long": 19.1451
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Portugal"
+   },
+   "Lat": 39.3999,
+   "Long": -8.2245
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Qatar"
+   },
+   "Lat": 25.3548,
+   "Long": 51.1839
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Romania"
+   },
+   "Lat": 45.9432,
+   "Long": 24.9668
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Russia"
+   },
+   "Lat": 61.52401,
+   "Long": 105.318756
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Rwanda"
+   },
+   "Lat": -1.9403,
+   "Long": 29.8739
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Saint Kitts and Nevis"
+   },
+   "Lat": 17.357822,
+   "Long": -62.782998
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Saint Lucia"
+   },
+   "Lat": 13.9094,
+   "Long": -60.9789
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Saint Vincent and the Grenadines"
+   },
+   "Lat": 12.9843,
+   "Long": -61.2872
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Samoa"
+   },
+   "Lat": -13.759,
+   "Long": -172.1046
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "San Marino"
+   },
+   "Lat": 43.9424,
+   "Long": 12.4578
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Sao Tome and Principe"
+   },
+   "Lat": 0.1864,
+   "Long": 6.6131
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Saudi Arabia"
+   },
+   "Lat": 23.885942,
+   "Long": 45.079162
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Senegal"
+   },
+   "Lat": 14.4974,
+   "Long": -14.4524
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Serbia"
+   },
+   "Lat": 44.0165,
+   "Long": 21.0059
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Seychelles"
+   },
+   "Lat": -4.6796,
+   "Long": 55.492
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Sierra Leone"
+   },
+   "Lat": 8.460555,
+   "Long": -11.779889
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Singapore"
+   },
+   "Lat": 1.2833,
+   "Long": 103.8333
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Slovakia"
+   },
+   "Lat": 48.669,
+   "Long": 19.699
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Slovenia"
+   },
+   "Lat": 46.1512,
+   "Long": 14.9955
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Solomon Islands"
+   },
+   "Lat": -9.6457,
+   "Long": 160.1562
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Somalia"
+   },
+   "Lat": 5.152149,
+   "Long": 46.199616
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "South Africa"
+   },
+   "Lat": -30.5595,
+   "Long": 22.9375
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "South Sudan"
+   },
+   "Lat": 6.877,
+   "Long": 31.307
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Spain"
+   },
+   "Lat": 40.463667,
+   "Long": -3.74922
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Sri Lanka"
+   },
+   "Lat": 7.873054,
+   "Long": 80.771797
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Sudan"
+   },
+   "Lat": 12.8628,
+   "Long": 30.2176
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Summer Olympics 2020"
+   },
+   "Lat": 35.6491,
+   "Long": 139.7737
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Suriname"
+   },
+   "Lat": 3.9193,
+   "Long": -56.0278
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Sweden"
+   },
+   "Lat": 60.128161,
+   "Long": 18.643501
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Switzerland"
+   },
+   "Lat": 46.8182,
+   "Long": 8.2275
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Syria"
+   },
+   "Lat": 34.802075,
+   "Long": 38.996815
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Taiwan*"
+   },
+   "Lat": 23.7,
+   "Long": 121
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Tajikistan"
+   },
+   "Lat": 38.861,
+   "Long": 71.2761
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Tanzania"
+   },
+   "Lat": -6.369028,
+   "Long": 34.888822
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Thailand"
+   },
+   "Lat": 15.870032,
+   "Long": 100.992541
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Timor-Leste"
+   },
+   "Lat": -8.874217,
+   "Long": 125.727539
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Togo"
+   },
+   "Lat": 8.6195,
+   "Long": 0.8248
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Tonga"
+   },
+   "Lat": -21.179,
+   "Long": -175.1982
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Trinidad and Tobago"
+   },
+   "Lat": 10.6918,
+   "Long": -61.2225
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Tunisia"
+   },
+   "Lat": 33.886917,
+   "Long": 9.537499
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Turkey"
+   },
+   "Lat": 38.9637,
+   "Long": 35.2433
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Tuvalu"
+   },
+   "Lat": -7.1095,
+   "Long": 177.6493
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "US"
+   },
+   "Lat": 40,
+   "Long": -100
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Uganda"
+   },
+   "Lat": 1.373333,
+   "Long": 32.290275
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Ukraine"
+   },
+   "Lat": 48.3794,
+   "Long": 31.1656
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "United Arab Emirates"
+   },
+   "Lat": 23.424076,
+   "Long": 53.847818
+},
+ {
+   "Province": {
+      "State": "Anguilla"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 18.2206,
+   "Long": -63.0686
+},
+ {
+   "Province": {
+      "State": "Bermuda"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 32.3078,
+   "Long": -64.7505
+},
+ {
+   "Province": {
+      "State": "British Virgin Islands"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 18.4207,
+   "Long": -64.64
+},
+ {
+   "Province": {
+      "State": "Cayman Islands"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 19.3133,
+   "Long": -81.2546
+},
+ {
+   "Province": {
+      "State": "Channel Islands"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 49.3723,
+   "Long": -2.3644
+},
+ {
+   "Province": {
+      "State": "Falkland Islands (Malvinas)"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": -51.7963,
+   "Long": -59.5236
+},
+ {
+   "Province": {
+      "State": "Gibraltar"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 36.1408,
+   "Long": -5.3536
+},
+ {
+   "Province": {
+      "State": "Guernsey"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 49.448196,
+   "Long": -2.58949
+},
+ {
+   "Province": {
+      "State": "Isle of Man"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 54.2361,
+   "Long": -4.5481
+},
+ {
+   "Province": {
+      "State": "Jersey"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 49.2138,
+   "Long": -2.1358
+},
+ {
+   "Province": {
+      "State": "Montserrat"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 16.742498,
+   "Long": -62.187366
+},
+ {
+   "Province": {
+      "State": "Pitcairn Islands"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": -24.3768,
+   "Long": -128.3242
+},
+ {
+   "Province": {
+      "State": "Saint Helena, Ascension and Tristan da Cunha"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": -7.9467,
+   "Long": -14.3559
+},
+ {
+   "Province": {
+      "State": "Turks and Caicos Islands"
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 21.694,
+   "Long": -71.7979
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "United Kingdom"
+   },
+   "Lat": 55.3781,
+   "Long": -3.436
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Uruguay"
+   },
+   "Lat": -32.5228,
+   "Long": -55.7658
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Uzbekistan"
+   },
+   "Lat": 41.377491,
+   "Long": 64.585262
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Vanuatu"
+   },
+   "Lat": -15.3767,
+   "Long": 166.9592
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Venezuela"
+   },
+   "Lat": 6.4238,
+   "Long": -66.5897
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Vietnam"
+   },
+   "Lat": 14.058324,
+   "Long": 108.277199
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "West Bank and Gaza"
+   },
+   "Lat": 31.9522,
+   "Long": 35.2332
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Winter Olympics 2022"
+   },
+   "Lat": 39.9042,
+   "Long": 116.4074
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Yemen"
+   },
+   "Lat": 15.552727,
+   "Long": 48.516388
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Zambia"
+   },
+   "Lat": -13.133897,
+   "Long": 27.849332
+},
+ {
+   "Province": {
+      "State": ""
+   },
+   "Country": {
+      "Region": "Zimbabwe"
+   },
+   "Lat": -19.015438,
+   "Long": 29.154857
+}
+]
